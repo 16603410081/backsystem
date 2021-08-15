@@ -5,7 +5,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-    <div>1212456</div>,
+    <div>1212456
+      asfh
+    </div>,
   document.getElementById('root')
 );
 
