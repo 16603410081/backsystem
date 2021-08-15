@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
+    <div>1212456</div>,
   document.getElementById('root')
 );
 
